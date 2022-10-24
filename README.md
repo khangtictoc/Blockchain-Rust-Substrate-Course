@@ -17,4 +17,4 @@ Nhập s = ‘d’ => in ra kết quả : 4, “abca”
 
 Fix bug liên quan tới ownership và borrowing.
 
-Link: 
+Link: https://github.com/khangtictoc/Blockchain-Rust-Substrate-Course/blob/main/Session2/Resource/main.rs
