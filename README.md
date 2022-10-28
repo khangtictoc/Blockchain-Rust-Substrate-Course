@@ -2,7 +2,7 @@
 
 ## Buổi 1: 
 
-<ins>Nội dung<ins>: Lập trình cơ bản, làm quen syntax: kiểu dữ liệu (số, chuỗi, mảng), if-else, match , ...
+<ins>Nội dung</ins>: Lập trình cơ bản, làm quen syntax: kiểu dữ liệu (số, chuỗi, mảng), if-else, match , ...
 
 <ins>**_Bài tập 1:_**</ins> Cho 2 mảng, kiểm tra mảng này có phải là mảng con của mảng kia không ? (yêu cầu đúng thứ tự của các phần tử)
 Ví dụ : let org_arr = [1, 2, 3, 5, 6, 8, 10, 11];
@@ -17,7 +17,7 @@ Nhập s = ‘d’ => in ra kết quả : 4, “abca”
 
 ## Buổi 2:
             
-<ins>Nội dung<ins>: Ownership, Borrowing, Reference (shared reference, mutable share refernce)
+<ins>Nội dung</ins>: Ownership, Borrowing, Reference (shared reference, mutable share refernce)
             
 Fix bug liên quan tới ownership và borrowing.
 
@@ -25,7 +25,7 @@ Link: https://github.com/khangtictoc/Blockchain-Rust-Substrate-Course/blob/main/
 
 ## Buổi 3:
             
-<ins>Nội dung<ins>: Một số cấu trúc dữ liệu (Struct, Enum, Vector), Generic Type
+<ins>Nội dung</ins>: Một số cấu trúc dữ liệu (Struct, Enum, Vector), Generic Type
 
 Fix bug liên quan tới Complex-type, Generic type.
 
