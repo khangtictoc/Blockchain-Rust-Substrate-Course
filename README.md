@@ -30,3 +30,9 @@ Link: https://github.com/khangtictoc/Blockchain-Rust-Substrate-Course/blob/main/
 Fix bug liên quan tới Complex-type, Generic type.
 
 Link: https://github.com/khangtictoc/Blockchain-Rust-Substrate-Course/blob/main/Session3/Resource/main.rs
+
+## Buổi 4:
+            
+<ins>Nội dung</ins>: Giới thiệu traits (phần 1), lifetime
+
+*<Chưa cập nhật bài tập>*
