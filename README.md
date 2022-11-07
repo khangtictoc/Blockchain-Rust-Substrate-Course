@@ -33,6 +33,14 @@ Link: https://github.com/khangtictoc/Blockchain-Rust-Substrate-Course/blob/main/
 
 ## Buổi 4:
             
-<ins>Nội dung</ins>: Giới thiệu traits (phần 1), lifetime
+<ins>Nội dung</ins>: Giới thiệu traits (phần 1), lifetime của một biến -> Giải quyết **dangling reference** ?, cú pháp `<'a,'b>` và `'static`
 
 *<Chưa cập nhật bài tập>*
+
+## Buổi 5:
+
+<ins>Nội dung</ins>: Giới thiệu traits (phần 2), thực hiện define/implement function trong Trait cho một complex type, tìm hiểu từ khóa **static/dynamic dispatch**
+
+https://github.com/CocDap/VBI-Rust-Workshop-4/blob/main/trait-lifetime-exercise/src/main.rs
+
+*<Yêu cầu đã note trong github>*
